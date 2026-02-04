@@ -1,0 +1,1 @@
+/home/dev_computer/dai_ws/build/depthai_bridge/ament_cmake_core/depthai_bridgeConfig.cmake

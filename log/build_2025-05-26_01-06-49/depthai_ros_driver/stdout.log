@@ -1,0 +1,148 @@
+-- Found ament_cmake_auto: 2.5.3 (/opt/ros/jazzy/share/ament_cmake_auto/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Found rosidl_generator_c: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_c/cmake)
+-- Found rosidl_generator_cpp: 4.6.5 (/opt/ros/jazzy/share/rosidl_generator_cpp/cmake)
+-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+-- Found rmw_implementation_cmake: 7.3.2 (/opt/ros/jazzy/share/rmw_implementation_cmake/cmake)
+-- Found rmw_cyclonedds_cpp: 2.2.3 (/opt/ros/jazzy/share/rmw_cyclonedds_cpp/cmake)
+-- Using RMW implementation 'rmw_cyclonedds_cpp' as default
+-- Found TinyXML2 via Config file: /usr/lib/x86_64-linux-gnu/cmake/tinyxml2
+-- Setting yaml-cpp_DIR to: '/opt/ros/jazzy/share/yaml_cpp_vendor/cmake/../../../opt/yaml_cpp_vendor/share/cmake/yaml-cpp'
+-- Found eigen3_cmake_module: 0.3.0 (/opt/ros/jazzy/share/eigen3_cmake_module/cmake)
+-- Ensuring Eigen3 include directory is part of orocos-kdl CMake target
+-- Configuring done (1.1s)
+-- Generating done (0.1s)
+-- Build files have been written to: /home/dev_computer/dai_ws/build/depthai_ros_driver
+[  0%] Built target ament_cmake_python_symlink_depthai_ros_driver
+[ 42%] Built target depthai_ros_driver_common
+[ 54%] Built target depthai_ros_driver_nn_nodes
+[ 82%] Built target depthai_ros_driver_sensor_nodes
+[ 94%] Built target depthai_ros_driver
+[100%] Built target camera_node
+running egg_info
+writing depthai_ros_driver.egg-info/PKG-INFO
+writing dependency_links to depthai_ros_driver.egg-info/dependency_links.txt
+writing top-level names to depthai_ros_driver.egg-info/top_level.txt
+reading manifest file 'depthai_ros_driver.egg-info/SOURCES.txt'
+writing manifest file 'depthai_ros_driver.egg-info/SOURCES.txt'
+[100%] Built target ament_cmake_python_build_depthai_ros_driver_egg
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver//plugins.xml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/library_path.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/library_path.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/calibration.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/camera.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/camera_as_part_of_a_robot.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/example_marker_publish.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/example_multicam.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/example_segmentation.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/oak_t.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/pointcloud.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/rgbd_pcl.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/rtabmap.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/sr_poe_rgbd_pcl.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/sr_rgbd_pcl.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/launch/stereo_from_rosbag.launch.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/calibration.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/calibration/left.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/calibration/rgb.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/calibration/right.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/camera.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/isaac_vslam.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/low_bandwidth.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/multicam_example.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/nn/backup/mobilenet.json
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/nn/backup/segmentation.json
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/nn/backup/yolo.json
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/nn/my_yolo8s/camera_yolo8s.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/nn/my_yolo8s/yolo8s.json
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/nn/my_yolo8s/yolo8s_openvino_2022.1_5shave.blob
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/oak_d_pro_w.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/oak_d_sr.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/oak_t.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/pcl.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/rgbd.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/rviz/multicam.rviz
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/rviz/rgbd.rviz
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/rviz/segmentation.rviz
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/segmentation.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/spatial_yolo.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/sr_poe_rgbd.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/sr_rgbd.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/config/stereo_from_rosbag.yaml
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/depthai_ros_driver/camera_node
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/pythonpath.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/pythonpath.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/python3.12/site-packages/depthai_ros_driver-2.11.2-py3.12.egg-info/PKG-INFO
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/python3.12/site-packages/depthai_ros_driver-2.11.2-py3.12.egg-info/SOURCES.txt
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/python3.12/site-packages/depthai_ros_driver-2.11.2-py3.12.egg-info/dependency_links.txt
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/python3.12/site-packages/depthai_ros_driver-2.11.2-py3.12.egg-info/top_level.txt
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/python3.12/site-packages/depthai_ros_driver/__init__.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/depthai_ros_driver/obj_pub.py
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/camera.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/base_node.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/nn/detection.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/nn/nn_helpers.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/nn/nn_wrapper.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/nn/segmentation.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/nn/spatial_detection.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/nn/spatial_nn_wrapper.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/feature_tracker.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/img_pub.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/imu.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/mono.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/rgb.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/sensor_helpers.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/sensor_wrapper.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/stereo.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/sync.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/thermal.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sensors/tof.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/stereo.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/dai_nodes/sys_logger.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/base_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/camera_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/feature_tracker_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/imu_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/nn_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/pipeline_gen_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/sensor_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/stereo_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/sync_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/param_handlers/tof_param_handler.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/pipeline/base_pipeline.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/pipeline/base_types.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/pipeline/pipeline_generator.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/include/depthai_ros_driver/utils.hpp
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/ament_index/resource_index/package_run_dependencies/depthai_ros_driver
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/ament_index/resource_index/parent_prefix_path/depthai_ros_driver
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/path.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/environment/path.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/local_setup.bash
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/local_setup.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/local_setup.zsh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/local_setup.dsv
+-- Symlinking: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/package.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/ament_index/resource_index/packages/depthai_ros_driver
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/ament_index/resource_index/depthai_ros_driver__pluginlib__plugin/depthai_ros_driver
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/ament_index/resource_index/rclcpp_components/depthai_ros_driver
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/ament_cmake_export_include_directories-extras.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/ament_cmake_export_targets-extras.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/ament_cmake_export_libraries-extras.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/ament_cmake_export_dependencies-extras.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/depthai_ros_driverConfig.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/depthai_ros_driverConfig-version.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/package.xml
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/libdepthai_ros_driver.so
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/libdepthai_ros_driver_sensor_nodes.so
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/libdepthai_ros_driver_nn_nodes.so
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/lib/libdepthai_ros_driver_common.so
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/depthai_ros_driverTargets.cmake
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/depthai_ros_driverTargets-noconfig.cmake
+Listing '/home/dev_computer/dai_ws/install/depthai_ros_driver/lib/python3.12/site-packages/depthai_ros_driver'...
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/depthai_ros_driverTargetsExport.cmake
+-- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_driver/share/depthai_ros_driver/cmake/depthai_ros_driverTargetsExport-noconfig.cmake

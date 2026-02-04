@@ -1,0 +1,18 @@
+[1.428s] Invoking command in '/home/dev_computer/dai_ws/build/detector': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dev_computer/dai_ws/build/detector/build --no-deps symlink_data
+[1.985s] running develop
+[2.360s] running egg_info
+[2.397s] writing detector.egg-info/PKG-INFO
+[2.397s] writing dependency_links to detector.egg-info/dependency_links.txt
+[2.397s] writing entry points to detector.egg-info/entry_points.txt
+[2.397s] writing requirements to detector.egg-info/requires.txt
+[2.398s] writing top-level names to detector.egg-info/top_level.txt
+[2.471s] reading manifest file 'detector.egg-info/SOURCES.txt'
+[2.472s] writing manifest file 'detector.egg-info/SOURCES.txt'
+[2.510s] running build_ext
+[2.510s] Creating /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector.egg-link (link to .)
+[2.511s] Installing aruco_detector_node script to /home/dev_computer/dai_ws/install/detector/lib/detector
+[2.511s] Installing spatial_tracker_node script to /home/dev_computer/dai_ws/install/detector/lib/detector
+[2.512s] 
+[2.512s] Installed /home/dev_computer/dai_ws/build/detector
+[2.512s] running symlink_data
+[2.560s] Invoked command in '/home/dev_computer/dai_ws/build/detector' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dev_computer/dai_ws/build/detector/build --no-deps symlink_data

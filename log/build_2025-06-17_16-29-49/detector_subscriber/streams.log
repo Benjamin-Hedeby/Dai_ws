@@ -1,0 +1,22 @@
+[2.200s] Invoking command in '/home/dev_computer/dai_ws/src/detector_subscriber': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/detector_subscriber build --build-base /home/dev_computer/dai_ws/build/detector_subscriber/build install --record /home/dev_computer/dai_ws/build/detector_subscriber/install.log --single-version-externally-managed install_data
+[2.695s] running egg_info
+[2.737s] writing ../../build/detector_subscriber/detector_subscriber.egg-info/PKG-INFO
+[2.738s] writing dependency_links to ../../build/detector_subscriber/detector_subscriber.egg-info/dependency_links.txt
+[2.738s] writing entry points to ../../build/detector_subscriber/detector_subscriber.egg-info/entry_points.txt
+[2.738s] writing requirements to ../../build/detector_subscriber/detector_subscriber.egg-info/requires.txt
+[2.739s] writing top-level names to ../../build/detector_subscriber/detector_subscriber.egg-info/top_level.txt
+[2.820s] reading manifest file '../../build/detector_subscriber/detector_subscriber.egg-info/SOURCES.txt'
+[2.821s] writing manifest file '../../build/detector_subscriber/detector_subscriber.egg-info/SOURCES.txt'
+[2.822s] running build
+[2.822s] running build_py
+[2.822s] running install
+[2.830s] running install_lib
+[2.884s] running install_data
+[2.884s] running install_egg_info
+[2.935s] removing '/home/dev_computer/dai_ws/install/detector_subscriber/lib/python3.12/site-packages/detector_subscriber-0.0.1-py3.12.egg-info' (and everything under it)
+[2.935s] Copying ../../build/detector_subscriber/detector_subscriber.egg-info to /home/dev_computer/dai_ws/install/detector_subscriber/lib/python3.12/site-packages/detector_subscriber-0.0.1-py3.12.egg-info
+[2.937s] running install_scripts
+[3.178s] Installing aruco_visualizer script to /home/dev_computer/dai_ws/install/detector_subscriber/lib/detector_subscriber
+[3.178s] Installing spatial_subscriber script to /home/dev_computer/dai_ws/install/detector_subscriber/lib/detector_subscriber
+[3.178s] writing list of installed files to '/home/dev_computer/dai_ws/build/detector_subscriber/install.log'
+[3.262s] Invoked command in '/home/dev_computer/dai_ws/src/detector_subscriber' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/detector_subscriber build --build-base /home/dev_computer/dai_ws/build/detector_subscriber/build install --record /home/dev_computer/dai_ws/build/detector_subscriber/install.log --single-version-externally-managed install_data

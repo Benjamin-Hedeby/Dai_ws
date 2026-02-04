@@ -1,0 +1,321 @@
+[0.064s] Invoking command in '/home/dev_computer/dai_ws/build/depthai_ros_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dev_computer/dai_ws/install/spatial_detector:/home/dev_computer/dai_ws/install/detector_subscriber:/home/dev_computer/dai_ws/install/detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/dev_computer/dai_ws/build/depthai_ros_msgs -- -j8 -l8
+[0.248s] [  1%] Built target depthai_ros_msgs__rosidl_generator_type_description
+[0.281s] [  1%] Built target ament_cmake_python_symlink_depthai_ros_msgs
+[0.334s] [  1%] Built target depthai_ros_msgs__cpp
+[0.379s] [ 27%] Built target depthai_ros_msgs__rosidl_generator_c
+[0.520s] [ 37%] Built target depthai_ros_msgs__rosidl_typesupport_c
+[0.526s] [ 46%] Built target depthai_ros_msgs__rosidl_typesupport_cpp
+[0.527s] [ 56%] Built target depthai_ros_msgs__rosidl_typesupport_fastrtps_cpp
+[0.528s] [ 68%] Built target depthai_ros_msgs__rosidl_typesupport_introspection_cpp
+[0.528s] [ 75%] Built target depthai_ros_msgs__rosidl_typesupport_introspection_c
+[0.536s] [ 85%] Built target depthai_ros_msgs__rosidl_typesupport_fastrtps_c
+[0.568s] [ 85%] Built target depthai_ros_msgs
+[0.601s] [ 86%] Built target depthai_ros_msgs__py
+[0.642s] [ 95%] Built target depthai_ros_msgs__rosidl_generator_py
+[0.678s] [ 97%] Built target depthai_ros_msgs_s__rosidl_typesupport_introspection_c
+[0.680s] [100%] Built target depthai_ros_msgs_s__rosidl_typesupport_c
+[0.680s] [100%] Built target depthai_ros_msgs_s__rosidl_typesupport_fastrtps_c
+[0.836s] running egg_info
+[0.874s] writing depthai_ros_msgs.egg-info/PKG-INFO
+[0.874s] writing dependency_links to depthai_ros_msgs.egg-info/dependency_links.txt
+[0.874s] writing top-level names to depthai_ros_msgs.egg-info/top_level.txt
+[0.985s] reading manifest file 'depthai_ros_msgs.egg-info/SOURCES.txt'
+[0.986s] writing manifest file 'depthai_ros_msgs.egg-info/SOURCES.txt'
+[1.025s] [100%] Built target ament_cmake_python_build_depthai_ros_msgs_egg
+[1.043s] Invoked command in '/home/dev_computer/dai_ws/build/depthai_ros_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dev_computer/dai_ws/install/spatial_detector:/home/dev_computer/dai_ws/install/detector_subscriber:/home/dev_computer/dai_ws/install/detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --build /home/dev_computer/dai_ws/build/depthai_ros_msgs -- -j8 -l8
+[1.045s] Invoking command in '/home/dev_computer/dai_ws/build/depthai_ros_msgs': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dev_computer/dai_ws/install/spatial_detector:/home/dev_computer/dai_ws/install/detector_subscriber:/home/dev_computer/dai_ws/install/detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/dev_computer/dai_ws/build/depthai_ros_msgs
+[1.057s] -- Install configuration: ""
+[1.058s] -- Execute custom install script
+[1.059s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/ament_index/resource_index/rosidl_interfaces/depthai_ros_msgs
+[1.059s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/AutoFocusCtrl.json
+[1.059s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/HandLandmark.json
+[1.059s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/HandLandmarkArray.json
+[1.059s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/ImuWithMagneticField.json
+[1.060s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackedFeature.json
+[1.060s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackedFeatures.json
+[1.060s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/SpatialDetection.json
+[1.061s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/SpatialDetectionArray.json
+[1.061s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackDetection2D.json
+[1.061s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackDetection2DArray.json
+[1.061s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/srv/TriggerNamed.json
+[1.062s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/srv/NormalizedImageCrop.json
+[1.064s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/auto_focus_ctrl.h
+[1.065s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__functions.h
+[1.065s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__struct.h
+[1.065s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__type_support.h
+[1.065s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__functions.h
+[1.066s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__struct.h
+[1.066s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__type_support.h
+[1.066s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__functions.h
+[1.067s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__struct.h
+[1.067s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__type_support.h
+[1.067s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__functions.h
+[1.068s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__struct.h
+[1.068s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__type_support.h
+[1.068s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__functions.h
+[1.068s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__struct.h
+[1.068s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__type_support.h
+[1.069s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__functions.h
+[1.069s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__struct.h
+[1.069s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__type_support.h
+[1.069s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__functions.h
+[1.070s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__struct.h
+[1.070s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__type_support.h
+[1.070s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__functions.h
+[1.070s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__struct.h
+[1.070s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__type_support.h
+[1.070s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__functions.h
+[1.071s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__struct.h
+[1.071s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__type_support.h
+[1.071s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__functions.h
+[1.071s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__struct.h
+[1.071s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__type_support.h
+[1.072s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/hand_landmark.h
+[1.072s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/hand_landmark_array.h
+[1.072s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/imu_with_magnetic_field.h
+[1.072s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/rosidl_generator_c__visibility_control.h
+[1.072s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/spatial_detection.h
+[1.073s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/spatial_detection_array.h
+[1.073s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/track_detection2_d.h
+[1.073s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/track_detection2_d_array.h
+[1.073s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/tracked_feature.h
+[1.073s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/tracked_features.h
+[1.074s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__functions.h
+[1.074s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__struct.h
+[1.074s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__type_support.h
+[1.074s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__functions.h
+[1.074s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__struct.h
+[1.075s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__type_support.h
+[1.075s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/normalized_image_crop.h
+[1.075s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/trigger_named.h
+[1.075s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/library_path.sh
+[1.075s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/library_path.dsv
+[1.076s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__rosidl_typesupport_fastrtps_c.h
+[1.076s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__rosidl_typesupport_fastrtps_c.h
+[1.076s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__rosidl_typesupport_fastrtps_c.h
+[1.077s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__rosidl_typesupport_fastrtps_c.h
+[1.077s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__rosidl_typesupport_fastrtps_c.h
+[1.077s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__rosidl_typesupport_fastrtps_c.h
+[1.077s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__rosidl_typesupport_fastrtps_c.h
+[1.078s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__rosidl_typesupport_fastrtps_c.h
+[1.078s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__rosidl_typesupport_fastrtps_c.h
+[1.078s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__rosidl_typesupport_fastrtps_c.h
+[1.078s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/rosidl_typesupport_fastrtps_c__visibility_control.h
+[1.078s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__rosidl_typesupport_fastrtps_c.h
+[1.079s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__rosidl_typesupport_fastrtps_c.h
+[1.080s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/auto_focus_ctrl.hpp
+[1.080s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__builder.hpp
+[1.080s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__struct.hpp
+[1.080s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__traits.hpp
+[1.080s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__type_support.hpp
+[1.081s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__builder.hpp
+[1.081s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__struct.hpp
+[1.081s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__traits.hpp
+[1.081s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__type_support.hpp
+[1.081s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__builder.hpp
+[1.082s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__struct.hpp
+[1.082s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__traits.hpp
+[1.082s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__type_support.hpp
+[1.082s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__builder.hpp
+[1.082s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__struct.hpp
+[1.083s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__traits.hpp
+[1.083s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__type_support.hpp
+[1.083s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__builder.hpp
+[1.083s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__struct.hpp
+[1.083s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__traits.hpp
+[1.084s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__type_support.hpp
+[1.084s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__builder.hpp
+[1.084s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__struct.hpp
+[1.084s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__traits.hpp
+[1.085s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__type_support.hpp
+[1.085s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__builder.hpp
+[1.085s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__struct.hpp
+[1.085s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__traits.hpp
+[1.085s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__type_support.hpp
+[1.085s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__builder.hpp
+[1.086s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__struct.hpp
+[1.086s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__traits.hpp
+[1.086s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__type_support.hpp
+[1.086s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__builder.hpp
+[1.086s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__struct.hpp
+[1.087s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__traits.hpp
+[1.087s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__type_support.hpp
+[1.087s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__builder.hpp
+[1.087s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__struct.hpp
+[1.087s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__traits.hpp
+[1.087s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__type_support.hpp
+[1.088s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/hand_landmark.hpp
+[1.088s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/hand_landmark_array.hpp
+[1.088s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/imu_with_magnetic_field.hpp
+[1.088s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/rosidl_generator_cpp__visibility_control.hpp
+[1.088s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/spatial_detection.hpp
+[1.089s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/spatial_detection_array.hpp
+[1.089s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/track_detection2_d.hpp
+[1.089s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/track_detection2_d_array.hpp
+[1.089s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/tracked_feature.hpp
+[1.089s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/tracked_features.hpp
+[1.089s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__builder.hpp
+[1.090s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__struct.hpp
+[1.090s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__traits.hpp
+[1.090s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__type_support.hpp
+[1.090s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__builder.hpp
+[1.090s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__struct.hpp
+[1.091s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__traits.hpp
+[1.091s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__type_support.hpp
+[1.091s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/normalized_image_crop.hpp
+[1.091s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/trigger_named.hpp
+[1.092s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__rosidl_typesupport_fastrtps_cpp.hpp
+[1.092s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__rosidl_typesupport_fastrtps_cpp.hpp
+[1.092s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__rosidl_typesupport_fastrtps_cpp.hpp
+[1.092s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__rosidl_typesupport_fastrtps_cpp.hpp
+[1.092s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__rosidl_typesupport_fastrtps_cpp.hpp
+[1.093s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__rosidl_typesupport_fastrtps_cpp.hpp
+[1.093s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__rosidl_typesupport_fastrtps_cpp.hpp
+[1.093s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__rosidl_typesupport_fastrtps_cpp.hpp
+[1.093s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__rosidl_typesupport_fastrtps_cpp.hpp
+[1.094s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__rosidl_typesupport_fastrtps_cpp.hpp
+[1.094s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/rosidl_typesupport_fastrtps_cpp__visibility_control.h
+[1.094s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__rosidl_typesupport_fastrtps_cpp.hpp
+[1.094s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__rosidl_typesupport_fastrtps_cpp.hpp
+[1.095s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__rosidl_typesupport_introspection_c.h
+[1.095s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__rosidl_typesupport_introspection_c.h
+[1.095s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__rosidl_typesupport_introspection_c.h
+[1.095s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__rosidl_typesupport_introspection_c.h
+[1.095s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__rosidl_typesupport_introspection_c.h
+[1.096s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__rosidl_typesupport_introspection_c.h
+[1.096s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__rosidl_typesupport_introspection_c.h
+[1.096s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__rosidl_typesupport_introspection_c.h
+[1.096s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__rosidl_typesupport_introspection_c.h
+[1.096s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__rosidl_typesupport_introspection_c.h
+[1.097s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/rosidl_typesupport_introspection_c__visibility_control.h
+[1.097s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__rosidl_typesupport_introspection_c.h
+[1.097s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__rosidl_typesupport_introspection_c.h
+[1.098s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/auto_focus_ctrl__rosidl_typesupport_introspection_cpp.hpp
+[1.098s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark__rosidl_typesupport_introspection_cpp.hpp
+[1.098s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/hand_landmark_array__rosidl_typesupport_introspection_cpp.hpp
+[1.098s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/imu_with_magnetic_field__rosidl_typesupport_introspection_cpp.hpp
+[1.098s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection__rosidl_typesupport_introspection_cpp.hpp
+[1.099s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/spatial_detection_array__rosidl_typesupport_introspection_cpp.hpp
+[1.099s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d__rosidl_typesupport_introspection_cpp.hpp
+[1.099s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/track_detection2_d_array__rosidl_typesupport_introspection_cpp.hpp
+[1.099s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_feature__rosidl_typesupport_introspection_cpp.hpp
+[1.100s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/msg/detail/tracked_features__rosidl_typesupport_introspection_cpp.hpp
+[1.100s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/normalized_image_crop__rosidl_typesupport_introspection_cpp.hpp
+[1.100s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/include/depthai_ros_msgs/depthai_ros_msgs/srv/detail/trigger_named__rosidl_typesupport_introspection_cpp.hpp
+[1.100s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/pythonpath.sh
+[1.100s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/pythonpath.dsv
+[1.101s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs-2.11.2-py3.12.egg-info/PKG-INFO
+[1.101s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs-2.11.2-py3.12.egg-info/SOURCES.txt
+[1.101s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs-2.11.2-py3.12.egg-info/dependency_links.txt
+[1.101s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs-2.11.2-py3.12.egg-info/top_level.txt
+[1.103s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/__init__.py
+[1.103s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/_depthai_ros_msgs_s.ep.rosidl_typesupport_c.c
+[1.103s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/_depthai_ros_msgs_s.ep.rosidl_typesupport_fastrtps_c.c
+[1.103s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/_depthai_ros_msgs_s.ep.rosidl_typesupport_introspection_c.c
+[1.104s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/depthai_ros_msgs_s__rosidl_typesupport_c.so
+[1.104s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/depthai_ros_msgs_s__rosidl_typesupport_fastrtps_c.so
+[1.104s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/depthai_ros_msgs_s__rosidl_typesupport_introspection_c.so
+[1.104s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/__init__.py
+[1.104s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_auto_focus_ctrl.py
+[1.105s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_auto_focus_ctrl_s.c
+[1.105s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_hand_landmark.py
+[1.105s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_hand_landmark_array.py
+[1.105s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_hand_landmark_array_s.c
+[1.105s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_hand_landmark_s.c
+[1.106s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_imu_with_magnetic_field.py
+[1.106s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_imu_with_magnetic_field_s.c
+[1.106s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_spatial_detection.py
+[1.106s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_spatial_detection_array.py
+[1.106s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_spatial_detection_array_s.c
+[1.107s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_spatial_detection_s.c
+[1.107s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_track_detection2_d.py
+[1.107s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_track_detection2_d_array.py
+[1.107s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_track_detection2_d_array_s.c
+[1.107s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_track_detection2_d_s.c
+[1.108s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_tracked_feature.py
+[1.108s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_tracked_feature_s.c
+[1.108s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_tracked_features.py
+[1.108s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg/_tracked_features_s.c
+[1.108s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/srv/__init__.py
+[1.108s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/srv/_normalized_image_crop.py
+[1.109s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/srv/_normalized_image_crop_s.c
+[1.109s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/srv/_trigger_named.py
+[1.109s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/srv/_trigger_named_s.c
+[1.109s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/depthai_ros_msgs_s__rosidl_typesupport_fastrtps_c.so
+[1.109s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/depthai_ros_msgs_s__rosidl_typesupport_introspection_c.so
+[1.110s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/depthai_ros_msgs_s__rosidl_typesupport_c.so
+[1.110s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/AutoFocusCtrl.idl
+[1.110s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/HandLandmark.idl
+[1.110s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/HandLandmarkArray.idl
+[1.111s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/ImuWithMagneticField.idl
+[1.111s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackedFeature.idl
+[1.111s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackedFeatures.idl
+[1.111s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/SpatialDetection.idl
+[1.112s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/SpatialDetectionArray.idl
+[1.112s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackDetection2D.idl
+[1.112s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackDetection2DArray.idl
+[1.112s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/srv/TriggerNamed.idl
+[1.113s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/srv/NormalizedImageCrop.idl
+[1.113s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/AutoFocusCtrl.msg
+[1.113s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/HandLandmark.msg
+[1.113s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/HandLandmarkArray.msg
+[1.114s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/ImuWithMagneticField.msg
+[1.114s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackedFeature.msg
+[1.114s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackedFeatures.msg
+[1.114s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/SpatialDetection.msg
+[1.115s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/SpatialDetectionArray.msg
+[1.115s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackDetection2D.msg
+[1.115s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/msg/TrackDetection2DArray.msg
+[1.115s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/srv/TriggerNamed.srv
+[1.116s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/srv/NormalizedImageCrop.srv
+[1.116s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/ament_index/resource_index/package_run_dependencies/depthai_ros_msgs
+[1.116s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/ament_index/resource_index/parent_prefix_path/depthai_ros_msgs
+[1.116s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/ament_prefix_path.sh
+[1.117s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/ament_prefix_path.dsv
+[1.117s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/path.sh
+[1.117s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/environment/path.dsv
+[1.117s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/local_setup.bash
+[1.118s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/local_setup.sh
+[1.118s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/local_setup.zsh
+[1.118s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/local_setup.dsv
+[1.118s] -- Symlinking: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/package.dsv
+[1.134s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/ament_index/resource_index/packages/depthai_ros_msgs
+[1.135s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/rosidl_cmake-extras.cmake
+[1.135s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/ament_cmake_export_dependencies-extras.cmake
+[1.135s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/ament_cmake_export_include_directories-extras.cmake
+[1.135s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/ament_cmake_export_libraries-extras.cmake
+[1.136s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/ament_cmake_export_targets-extras.cmake
+[1.136s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/rosidl_cmake_export_typesupport_targets-extras.cmake
+[1.136s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/rosidl_cmake_export_typesupport_libraries-extras.cmake
+[1.136s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgsConfig.cmake
+[1.137s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgsConfig-version.cmake
+[1.137s] -- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/package.xml
+[1.137s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_generator_c.so
+[1.138s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_typesupport_fastrtps_c.so
+[1.138s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_typesupport_fastrtps_cpp.so
+[1.138s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_typesupport_introspection_c.so
+[1.139s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_typesupport_c.so
+[1.139s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_typesupport_introspection_cpp.so
+[1.139s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_typesupport_cpp.so
+[1.226s] Listing '/home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs'...
+[1.226s] Listing '/home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/msg'...
+[1.227s] Listing '/home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages/depthai_ros_msgs/srv'...
+[1.244s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/libdepthai_ros_msgs__rosidl_generator_py.so
+[1.245s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_generator_cExport.cmake
+[1.245s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_generator_cExport-noconfig.cmake
+[1.245s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_typesupport_fastrtps_cExport.cmake
+[1.246s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_typesupport_fastrtps_cExport-noconfig.cmake
+[1.246s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_generator_cppExport.cmake
+[1.247s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_typesupport_fastrtps_cppExport.cmake
+[1.247s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_typesupport_fastrtps_cppExport-noconfig.cmake
+[1.248s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_introspection_cExport.cmake
+[1.248s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_introspection_cExport-noconfig.cmake
+[1.248s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_cExport.cmake
+[1.248s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_cExport-noconfig.cmake
+[1.249s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_introspection_cppExport.cmake
+[1.249s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_introspection_cppExport-noconfig.cmake
+[1.249s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_cppExport.cmake
+[1.249s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/depthai_ros_msgs__rosidl_typesupport_cppExport-noconfig.cmake
+[1.250s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_generator_pyExport.cmake
+[1.250s] -- Up-to-date: /home/dev_computer/dai_ws/install/depthai_ros_msgs/share/depthai_ros_msgs/cmake/export_depthai_ros_msgs__rosidl_generator_pyExport-noconfig.cmake
+[1.251s] Invoked command in '/home/dev_computer/dai_ws/build/depthai_ros_msgs' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/dev_computer/dai_ws/install/spatial_detector:/home/dev_computer/dai_ws/install/detector_subscriber:/home/dev_computer/dai_ws/install/detector:/opt/ros/jazzy DEBUGINFOD_URLS=https://debuginfod.ubuntu.com /usr/bin/cmake --install /home/dev_computer/dai_ws/build/depthai_ros_msgs

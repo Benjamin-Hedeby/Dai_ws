@@ -1,0 +1,39 @@
+running develop
+Removing /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector.egg-link (link to .)
+running egg_info
+writing ../../build/detector/detector.egg-info/PKG-INFO
+writing dependency_links to ../../build/detector/detector.egg-info/dependency_links.txt
+writing entry points to ../../build/detector/detector.egg-info/entry_points.txt
+writing requirements to ../../build/detector/detector.egg-info/requires.txt
+writing top-level names to ../../build/detector/detector.egg-info/top_level.txt
+reading manifest file '../../build/detector/detector.egg-info/SOURCES.txt'
+writing manifest file '../../build/detector/detector.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/dev_computer/dai_ws/build/detector/build
+creating /home/dev_computer/dai_ws/build/detector/build/lib
+creating /home/dev_computer/dai_ws/build/detector/build/lib/detector
+copying detector/__init__.py -> /home/dev_computer/dai_ws/build/detector/build/lib/detector
+copying detector/aruco_detector_node.py -> /home/dev_computer/dai_ws/build/detector/build/lib/detector
+copying detector/camera.launch.py -> /home/dev_computer/dai_ws/build/detector/build/lib/detector
+copying detector/spatial_tracker_publisher.py -> /home/dev_computer/dai_ws/build/detector/build/lib/detector
+running install
+running install_lib
+creating /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector
+copying /home/dev_computer/dai_ws/build/detector/build/lib/detector/__init__.py -> /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector
+copying /home/dev_computer/dai_ws/build/detector/build/lib/detector/aruco_detector_node.py -> /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector
+copying /home/dev_computer/dai_ws/build/detector/build/lib/detector/camera.launch.py -> /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector
+copying /home/dev_computer/dai_ws/build/detector/build/lib/detector/spatial_tracker_publisher.py -> /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector
+byte-compiling /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector/__init__.py to __init__.cpython-312.pyc
+byte-compiling /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector/aruco_detector_node.py to aruco_detector_node.cpython-312.pyc
+byte-compiling /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector/camera.launch.py to camera.launch.cpython-312.pyc
+byte-compiling /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector/spatial_tracker_publisher.py to spatial_tracker_publisher.cpython-312.pyc
+running install_data
+copying resource/detector -> /home/dev_computer/dai_ws/install/detector/share/ament_index/resource_index/packages
+copying package.xml -> /home/dev_computer/dai_ws/install/detector/share/detector
+running install_egg_info
+Copying ../../build/detector/detector.egg-info to /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector-0.0.0-py3.12.egg-info
+running install_scripts
+Installing aruco_detector_node script to /home/dev_computer/dai_ws/install/detector/lib/detector
+Installing spatial_tracker_node script to /home/dev_computer/dai_ws/install/detector/lib/detector
+writing list of installed files to '/home/dev_computer/dai_ws/build/detector/install.log'

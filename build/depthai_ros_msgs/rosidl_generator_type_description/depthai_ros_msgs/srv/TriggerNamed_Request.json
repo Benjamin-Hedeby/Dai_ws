@@ -1,0 +1,26 @@
+{
+  "type_description_msg": {
+    "type_description": {
+      "type_name": "depthai_ros_msgs/srv/TriggerNamed_Request",
+      "fields": [
+        {
+          "name": "name",
+          "type": {
+            "type_id": 17,
+            "capacity": 0,
+            "string_capacity": 0,
+            "nested_type_name": ""
+          },
+          "default_value": ""
+        }
+      ]
+    },
+    "referenced_type_descriptions": []
+  },
+  "type_hashes": [
+    {
+      "type_name": "depthai_ros_msgs/srv/TriggerNamed_Request",
+      "hash_string": "RIHS01_b07192de4fe0b6d040253a04a5c42df80f9521c87f7a926042159baa7c18c323"
+    }
+  ]
+}

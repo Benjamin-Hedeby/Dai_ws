@@ -1,0 +1,27 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dev_computer/dai_ws/install/depthai_ros_driver/include/**",
+        "/home/dev_computer/dai_ws/install/depthai_filters/include/**",
+        "/home/dev_computer/dai_ws/install/depthai_bridge/include/**",
+        "/home/dev_computer/dai_ws/install/depthai_ros_msgs/include/**",
+        "/opt/ros/jazzy/include/**",
+        "/home/dev_computer/dai_ws/src/depthai-ros/depthai_bridge/include/**",
+        "/home/dev_computer/dai_ws/src/depthai-ros/depthai_filters/include/**",
+        "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_driver/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

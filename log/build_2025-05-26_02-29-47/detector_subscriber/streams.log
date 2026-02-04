@@ -1,0 +1,18 @@
+[0.954s] Invoking command in '/home/dev_computer/dai_ws/build/detector_subscriber': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dev_computer/dai_ws/build/detector_subscriber/build --no-deps symlink_data
+[1.317s] running develop
+[1.548s] running egg_info
+[1.571s] writing detector_subscriber.egg-info/PKG-INFO
+[1.571s] writing dependency_links to detector_subscriber.egg-info/dependency_links.txt
+[1.571s] writing entry points to detector_subscriber.egg-info/entry_points.txt
+[1.572s] writing requirements to detector_subscriber.egg-info/requires.txt
+[1.572s] writing top-level names to detector_subscriber.egg-info/top_level.txt
+[1.617s] reading manifest file 'detector_subscriber.egg-info/SOURCES.txt'
+[1.618s] writing manifest file 'detector_subscriber.egg-info/SOURCES.txt'
+[1.642s] running build_ext
+[1.642s] Creating /home/dev_computer/dai_ws/install/detector_subscriber/lib/python3.12/site-packages/detector-subscriber.egg-link (link to .)
+[1.643s] Installing aruco_visualizer script to /home/dev_computer/dai_ws/install/detector_subscriber/lib/detector_subscriber
+[1.643s] Installing spatial_subscriber script to /home/dev_computer/dai_ws/install/detector_subscriber/lib/detector_subscriber
+[1.643s] 
+[1.644s] Installed /home/dev_computer/dai_ws/build/detector_subscriber
+[1.644s] running symlink_data
+[1.678s] Invoked command in '/home/dev_computer/dai_ws/build/detector_subscriber' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector_subscriber/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector_subscriber/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/dev_computer/dai_ws/build/detector_subscriber/build --no-deps symlink_data

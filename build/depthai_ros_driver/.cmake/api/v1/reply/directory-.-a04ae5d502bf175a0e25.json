@@ -1,0 +1,326 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"_install",
+			"install",
+			"include",
+			"find_package",
+			"ament_cmake_symlink_install_targets",
+			"_ament_cmake_python_install_package",
+			"ament_python_install_package",
+			"ament_execute_extensions",
+			"ament_package"
+		],
+		"files" : 
+		[
+			"/opt/ros/jazzy/share/ament_cmake_core/cmake/symlink_install/install.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_core/cmake/ament_cmake_symlink_install-extras.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_core/cmake/ament_cmake_coreConfig.cmake",
+			"/opt/ros/jazzy/share/ament_cmake/cmake/ament_cmake_export_dependencies-extras.cmake",
+			"/opt/ros/jazzy/share/ament_cmake/cmake/ament_cmakeConfig.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_auto/cmake/ament_cmake_auto-extras.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_auto/cmake/ament_cmake_autoConfig.cmake",
+			"CMakeLists.txt",
+			"/opt/ros/jazzy/share/ament_cmake_core/cmake/symlink_install/ament_cmake_symlink_install_targets.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_python/cmake/ament_python_install_package.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_export_targets/cmake/ament_cmake_export_targets_package_hook.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_execute_extensions.cmake",
+			"/opt/ros/jazzy/share/ament_cmake_core/cmake/core/ament_package.cmake"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 7,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"file" : 6,
+				"parent" : 1
+			},
+			{
+				"command" : 2,
+				"file" : 6,
+				"line" : 41,
+				"parent" : 2
+			},
+			{
+				"file" : 5,
+				"parent" : 3
+			},
+			{
+				"command" : 3,
+				"file" : 5,
+				"line" : 17,
+				"parent" : 4
+			},
+			{
+				"file" : 4,
+				"parent" : 5
+			},
+			{
+				"command" : 2,
+				"file" : 4,
+				"line" : 41,
+				"parent" : 6
+			},
+			{
+				"file" : 3,
+				"parent" : 7
+			},
+			{
+				"command" : 3,
+				"file" : 3,
+				"line" : 15,
+				"parent" : 8
+			},
+			{
+				"file" : 2,
+				"parent" : 9
+			},
+			{
+				"command" : 2,
+				"file" : 2,
+				"line" : 41,
+				"parent" : 10
+			},
+			{
+				"file" : 1,
+				"parent" : 11
+			},
+			{
+				"command" : 1,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 12
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 13
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 146,
+				"parent" : 0
+			},
+			{
+				"command" : 4,
+				"file" : 0,
+				"line" : 37,
+				"parent" : 15
+			},
+			{
+				"command" : 0,
+				"file" : 8,
+				"line" : 50,
+				"parent" : 16
+			},
+			{
+				"command" : 1,
+				"file" : 7,
+				"line" : 156,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 18
+			},
+			{
+				"command" : 6,
+				"file" : 7,
+				"line" : 159,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 9,
+				"line" : 39,
+				"parent" : 20
+			},
+			{
+				"command" : 1,
+				"file" : 9,
+				"line" : 194,
+				"parent" : 21
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 22
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 176,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 12,
+				"line" : 66,
+				"parent" : 24
+			},
+			{
+				"command" : 2,
+				"file" : 11,
+				"line" : 48,
+				"parent" : 25
+			},
+			{
+				"file" : 10,
+				"parent" : 26
+			},
+			{
+				"command" : 1,
+				"file" : 10,
+				"line" : 28,
+				"parent" : 27
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 43,
+				"parent" : 28
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 14,
+			"component" : "Unspecified",
+			"scriptFile" : "/home/dev_computer/dai_ws/build/depthai_ros_driver/ament_cmake_symlink_install/ament_cmake_symlink_install.cmake",
+			"type" : "script"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libdepthai_ros_driver.so"
+			],
+			"targetId" : "depthai_ros_driver::@6890427a1f51a3e7e1df",
+			"targetIndex" : 3,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libdepthai_ros_driver_sensor_nodes.so"
+			],
+			"targetId" : "depthai_ros_driver_sensor_nodes::@6890427a1f51a3e7e1df",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libdepthai_ros_driver_nn_nodes.so"
+			],
+			"targetId" : "depthai_ros_driver_nn_nodes::@6890427a1f51a3e7e1df",
+			"targetIndex" : 5,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 17,
+			"component" : "Unspecified",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"libdepthai_ros_driver_common.so"
+			],
+			"targetId" : "depthai_ros_driver_common::@6890427a1f51a3e7e1df",
+			"targetIndex" : 4,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 19,
+			"component" : "Unspecified",
+			"destination" : "share/depthai_ros_driver/cmake",
+			"exportName" : "depthai_ros_driverTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "depthai_ros_driver::@6890427a1f51a3e7e1df",
+					"index" : 3
+				},
+				{
+					"id" : "depthai_ros_driver_sensor_nodes::@6890427a1f51a3e7e1df",
+					"index" : 6
+				},
+				{
+					"id" : "depthai_ros_driver_nn_nodes::@6890427a1f51a3e7e1df",
+					"index" : 5
+				},
+				{
+					"id" : "depthai_ros_driver_common::@6890427a1f51a3e7e1df",
+					"index" : 4
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/541a1dbf5c39d08f36068a0e8f41d60a/depthai_ros_driverTargets.cmake"
+			],
+			"type" : "export"
+		},
+		{
+			"backtrace" : 23,
+			"component" : "Unspecified",
+			"type" : "code"
+		},
+		{
+			"backtrace" : 29,
+			"component" : "Unspecified",
+			"destination" : "share/depthai_ros_driver/cmake",
+			"exportName" : "depthai_ros_driverTargets",
+			"exportTargets" : 
+			[
+				{
+					"id" : "depthai_ros_driver::@6890427a1f51a3e7e1df",
+					"index" : 3
+				},
+				{
+					"id" : "depthai_ros_driver_sensor_nodes::@6890427a1f51a3e7e1df",
+					"index" : 6
+				},
+				{
+					"id" : "depthai_ros_driver_nn_nodes::@6890427a1f51a3e7e1df",
+					"index" : 5
+				},
+				{
+					"id" : "depthai_ros_driver_common::@6890427a1f51a3e7e1df",
+					"index" : 4
+				}
+			],
+			"paths" : 
+			[
+				"CMakeFiles/Export/541a1dbf5c39d08f36068a0e8f41d60a/depthai_ros_driverTargetsExport.cmake"
+			],
+			"type" : "export"
+		}
+	],
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	}
+}

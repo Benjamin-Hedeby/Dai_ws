@@ -1,0 +1,23 @@
+[3.917s] Invoking command in '/home/dev_computer/dai_ws/src/spatial_detector': AMENT_PREFIX_PATH=/home/dev_computer/dai_ws/install/depthai_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev_computer/dai_ws/install/depthai_ros_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/dev_computer/dai_ws/install/depthai_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/dev_computer/dai_ws/build/spatial_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/spatial_detector/lib/python3.12/site-packages:/home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/spatial_detector build --build-base /home/dev_computer/dai_ws/build/spatial_detector/build install --record /home/dev_computer/dai_ws/build/spatial_detector/install.log --single-version-externally-managed install_data
+[5.211s] running egg_info
+[5.281s] writing ../../build/spatial_detector/spatial_detector.egg-info/PKG-INFO
+[5.282s] writing dependency_links to ../../build/spatial_detector/spatial_detector.egg-info/dependency_links.txt
+[5.282s] writing entry points to ../../build/spatial_detector/spatial_detector.egg-info/entry_points.txt
+[5.282s] writing requirements to ../../build/spatial_detector/spatial_detector.egg-info/requires.txt
+[5.283s] writing top-level names to ../../build/spatial_detector/spatial_detector.egg-info/top_level.txt
+[5.422s] reading manifest file '../../build/spatial_detector/spatial_detector.egg-info/SOURCES.txt'
+[5.424s] writing manifest file '../../build/spatial_detector/spatial_detector.egg-info/SOURCES.txt'
+[5.424s] running build
+[5.425s] running build_py
+[5.426s] running install
+[5.442s] running install_lib
+[5.515s] running install_data
+[5.515s] running install_egg_info
+[5.583s] removing '/home/dev_computer/dai_ws/install/spatial_detector/lib/python3.12/site-packages/spatial_detector-0.0.0-py3.12.egg-info' (and everything under it)
+[5.584s] Copying ../../build/spatial_detector/spatial_detector.egg-info to /home/dev_computer/dai_ws/install/spatial_detector/lib/python3.12/site-packages/spatial_detector-0.0.0-py3.12.egg-info
+[5.588s] running install_scripts
+[6.091s] Installing spatial_overlay.py script to /home/dev_computer/dai_ws/install/spatial_detector/lib/spatial_detector
+[6.091s] Installing spatial_publisher_node.py script to /home/dev_computer/dai_ws/install/spatial_detector/lib/spatial_detector
+[6.091s] Installing spatial_visualizer_node.py script to /home/dev_computer/dai_ws/install/spatial_detector/lib/spatial_detector
+[6.093s] writing list of installed files to '/home/dev_computer/dai_ws/build/spatial_detector/install.log'
+[6.214s] Invoked command in '/home/dev_computer/dai_ws/src/spatial_detector' returned '0': AMENT_PREFIX_PATH=/home/dev_computer/dai_ws/install/depthai_ros_msgs:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/dev_computer/dai_ws/install/depthai_ros_msgs:${CMAKE_PREFIX_PATH} DEBUGINFOD_URLS=https://debuginfod.ubuntu.com LD_LIBRARY_PATH=/home/dev_computer/dai_ws/install/depthai_ros_msgs/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/dev_computer/dai_ws/build/spatial_detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/spatial_detector/lib/python3.12/site-packages:/home/dev_computer/dai_ws/install/depthai_ros_msgs/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/spatial_detector build --build-base /home/dev_computer/dai_ws/build/spatial_detector/build install --record /home/dev_computer/dai_ws/build/spatial_detector/install.log --single-version-externally-managed install_data

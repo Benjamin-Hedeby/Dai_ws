@@ -1,0 +1,133 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-a04ae5d502bf175a0e25.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.15"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "depthai_ros_driver",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_build_depthai_ros_driver_egg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_build_depthai_ros_driver_egg-d483a8d99a51fff7ef90.json",
+					"name" : "ament_cmake_python_build_depthai_ros_driver_egg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ament_cmake_python_symlink_depthai_ros_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ament_cmake_python_symlink_depthai_ros_driver-ad737194b6c10fbae56d.json",
+					"name" : "ament_cmake_python_symlink_depthai_ros_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "camera_node::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-camera_node-2ae2e2445d95ea4e2a02.json",
+					"name" : "camera_node",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "depthai_ros_driver::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-depthai_ros_driver-03b9b6541985794f0944.json",
+					"name" : "depthai_ros_driver",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "depthai_ros_driver_common::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-depthai_ros_driver_common-cca8f3b2445071809df7.json",
+					"name" : "depthai_ros_driver_common",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "depthai_ros_driver_nn_nodes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-depthai_ros_driver_nn_nodes-c1c2b408f0129029e7f4.json",
+					"name" : "depthai_ros_driver_nn_nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "depthai_ros_driver_sensor_nodes::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-depthai_ros_driver_sensor_nodes-4151d8adb1842dd70ec9.json",
+					"name" : "depthai_ros_driver_sensor_nodes",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "depthai_ros_driver_uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-depthai_ros_driver_uninstall-0bfc8fed5ae4144522d5.json",
+					"name" : "depthai_ros_driver_uninstall",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "uninstall::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-uninstall-b575fffa7bd9df3cc336.json",
+					"name" : "uninstall",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/dev_computer/dai_ws/build/depthai_ros_driver",
+		"source" : "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_driver"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

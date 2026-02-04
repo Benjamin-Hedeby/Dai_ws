@@ -1,0 +1,16 @@
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/uninstall.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/depthai_ros_driver_uninstall.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/depthai_ros_driver_common.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/depthai_ros_driver_sensor_nodes.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/depthai_ros_driver_nn_nodes.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/depthai_ros_driver.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/camera_node.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/ament_cmake_python_symlink_depthai_ros_driver.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/ament_cmake_python_build_depthai_ros_driver_egg.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/test.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/edit_cache.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/rebuild_cache.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/list_install_components.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/install.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/install/local.dir
+/home/dev_computer/dai_ws/build/depthai_ros_driver/CMakeFiles/install/strip.dir

@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: spatial-detector
+Version: 0.0.0
+Summary: Split spatial detection: Pi publisher + desktop visualizer
+Maintainer: Christian Dragkilde
+Maintainer-email: chrmoric@gmail.com.com
+License: Apache-2.0

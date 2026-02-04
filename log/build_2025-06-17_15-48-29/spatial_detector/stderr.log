@@ -1,0 +1,5 @@
+  File "/home/dev_computer/dai_ws/install/spatial_detector/lib/python3.12/site-packages/spatial_detector/spatial_publisher_node_backup.py", line 35
+    ddef detections_cb(self, msg: Detection3DArray):
+         ^^^^^^^^^^^^^
+SyntaxError: invalid syntax
+

@@ -1,0 +1,17 @@
+{
+  "package_name": "depthai_ros_msgs",
+  "non_idl_tuples": [
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/AutoFocusCtrl.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/HandLandmark.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/HandLandmarkArray.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/ImuWithMagneticField.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/TrackedFeature.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/TrackedFeatures.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/SpatialDetection.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/SpatialDetectionArray.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/TrackDetection2D.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:msg/TrackDetection2DArray.msg",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:srv/TriggerNamed.srv",
+    "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_msgs:srv/NormalizedImageCrop.srv"
+  ]
+}

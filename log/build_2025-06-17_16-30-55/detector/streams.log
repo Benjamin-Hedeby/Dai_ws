@@ -1,0 +1,22 @@
+[2.225s] Invoking command in '/home/dev_computer/dai_ws/src/detector': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/detector build --build-base /home/dev_computer/dai_ws/build/detector/build install --record /home/dev_computer/dai_ws/build/detector/install.log --single-version-externally-managed install_data
+[2.713s] running egg_info
+[2.754s] writing ../../build/detector/detector.egg-info/PKG-INFO
+[2.755s] writing dependency_links to ../../build/detector/detector.egg-info/dependency_links.txt
+[2.755s] writing entry points to ../../build/detector/detector.egg-info/entry_points.txt
+[2.756s] writing requirements to ../../build/detector/detector.egg-info/requires.txt
+[2.756s] writing top-level names to ../../build/detector/detector.egg-info/top_level.txt
+[2.836s] reading manifest file '../../build/detector/detector.egg-info/SOURCES.txt'
+[2.837s] writing manifest file '../../build/detector/detector.egg-info/SOURCES.txt'
+[2.837s] running build
+[2.838s] running build_py
+[2.839s] running install
+[2.850s] running install_lib
+[2.890s] running install_data
+[2.891s] running install_egg_info
+[2.926s] removing '/home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector-0.0.0-py3.12.egg-info' (and everything under it)
+[2.926s] Copying ../../build/detector/detector.egg-info to /home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages/detector-0.0.0-py3.12.egg-info
+[2.927s] running install_scripts
+[3.152s] Installing aruco_detector_node script to /home/dev_computer/dai_ws/install/detector/lib/detector
+[3.153s] Installing spatial_tracker_node script to /home/dev_computer/dai_ws/install/detector/lib/detector
+[3.153s] writing list of installed files to '/home/dev_computer/dai_ws/build/detector/install.log'
+[3.195s] Invoked command in '/home/dev_computer/dai_ws/src/detector' returned '0': DEBUGINFOD_URLS=https://debuginfod.ubuntu.com PYTHONPATH=/home/dev_computer/dai_ws/build/detector/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/dev_computer/dai_ws/install/detector/lib/python3.12/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/detector build --build-base /home/dev_computer/dai_ws/build/detector/build install --record /home/dev_computer/dai_ws/build/detector/install.log --single-version-externally-managed install_data

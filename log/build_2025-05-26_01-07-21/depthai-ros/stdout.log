@@ -1,0 +1,22 @@
+-- Found ament_cmake: 2.5.3 (/opt/ros/jazzy/share/ament_cmake/cmake)
+-- Override CMake install command with custom implementation using symlinks instead of copying resources
+-- Configuring done (0.4s)
+-- Generating done (0.0s)
+-- Build files have been written to: /home/dev_computer/dai_ws/build/depthai-ros
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/ament_index/resource_index/package_run_dependencies/depthai-ros
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/ament_index/resource_index/parent_prefix_path/depthai-ros
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/environment/path.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/environment/path.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/local_setup.bash
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/local_setup.sh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/local_setup.zsh
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/local_setup.dsv
+-- Symlinking: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/package.dsv
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/ament_index/resource_index/packages/depthai-ros
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/cmake/depthai-rosConfig.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/cmake/depthai-rosConfig-version.cmake
+-- Up-to-date symlink: /home/dev_computer/dai_ws/install/depthai-ros/share/depthai-ros/package.xml
