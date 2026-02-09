@@ -1,0 +1,21 @@
+/oak:
+  ros__parameters:
+    # CAMERA SETTINGS
+    camera:
+      i_enable_imu: true             # keep your IMU on
+      i_enable_ir: true              # keep IR (if you need it)
+      i_pipeline_type: RGBD          # RGB + depth
+      i_nn_type: spatial             # use the SpatialDetectionNetwork
+
+    # NEURAL NETWORK SETTINGS
+    nn:
+      i_nn_config_path: "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_driver/config/nn/my_yolo8s/yolo8s.json"
+      i_disable_resize: true         # let DepthAI resize to your model’s 640×640 input
+      i_confidence_threshold: 0.4   # only report detections
+      i_iou_threshold:        0.5   # NMS IoU threshold. Lower supresses close targets
+
+    # RGB PREVIEW FOR DISPLAY (unrelated to network input)
+    rgb:
+      i_enable_preview: true
+      i_preview_size: 640            # fits within 1280×720 sensor
+

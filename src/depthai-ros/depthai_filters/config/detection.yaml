@@ -1,0 +1,11 @@
+/oak:
+  ros__parameters:
+    camera:
+      i_nn_type: rgb
+    nn:
+      i_nn_config_path: "/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_driver/config/nn/my_yolo8s/yolo8s.json"
+      i_disable_resize: true
+    rgb:
+      i_enable_preview: true
+      i_preview_size: 640
+
