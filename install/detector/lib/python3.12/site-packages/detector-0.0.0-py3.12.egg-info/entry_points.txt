@@ -1,3 +1,0 @@
-[console_scripts]
-aruco_detector_node = detector.aruco_detector_node:main
-spatial_tracker_node = detector.spatial_tracker_publisher:main

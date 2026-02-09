@@ -1,3 +1,0 @@
-[console_scripts]
-aruco_visualizer = detector_subscriber.aruco_subscriber_node:main
-spatial_subscriber = detector_subscriber.spatial_tracker_subscriber_node:main

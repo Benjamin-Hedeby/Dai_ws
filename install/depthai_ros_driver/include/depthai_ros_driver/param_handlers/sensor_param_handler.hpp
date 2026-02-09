@@ -1,1 +1,0 @@
-/home/dev_computer/dai_ws/src/depthai-ros/depthai_ros_driver/include/depthai_ros_driver/param_handlers/sensor_param_handler.hpp

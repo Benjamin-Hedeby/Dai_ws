@@ -1,9 +1,0 @@
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/uninstall.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/depthai-ros_uninstall.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/test.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/edit_cache.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/rebuild_cache.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/list_install_components.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/install.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/install/local.dir
-/home/dev_computer/dai_ws/build/depthai-ros/CMakeFiles/install/strip.dir

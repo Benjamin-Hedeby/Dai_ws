@@ -1,1 +1,0 @@
-/home/dev_computer/dai_ws/install/depthai_descriptions/share/depthai_descriptions/launch/urdf_launch.py

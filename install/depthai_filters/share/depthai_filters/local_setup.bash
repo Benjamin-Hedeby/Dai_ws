@@ -1,1 +1,0 @@
-/home/dev_computer/dai_ws/build/depthai_filters/ament_cmake_environment_hooks/local_setup.bash

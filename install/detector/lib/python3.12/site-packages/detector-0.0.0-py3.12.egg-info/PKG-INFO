@@ -1,7 +1,0 @@
-Metadata-Version: 2.1
-Name: detector
-Version: 0.0.0
-Summary: Detect ArUco markers and YOLO spatial detections from the DepthAI camera feed.
-Maintainer: Christian Dragkilde Moric
-Maintainer-email: chrmoric@gmail.com
-License: Apache-2.0
